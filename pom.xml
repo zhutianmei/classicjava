@@ -86,7 +86,7 @@
         <version>3.14.0</version>
         <configuration>
           <logClasspath>true</logClasspath>
-          <mainClass>org.example.MainApp</mainClass>
+          <mainClass>com.zhutianmei.MainApp</mainClass>
         </configuration>
       </plugin>
 

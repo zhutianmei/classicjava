@@ -1,9 +1,7 @@
-package org.example;
+package com.zhutianmei;
 
 import junit.framework.TestCase;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class ZTMMathTest extends TestCase {
 
