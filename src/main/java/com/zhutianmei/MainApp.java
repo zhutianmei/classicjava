@@ -13,7 +13,7 @@ public class MainApp {
     public static void main(String... args) throws Exception {
         Hello hello =  new Hello();
         hello.sayHello();
-        System.out.println("hello");
+        System.out.println("hello master");
     }
 
 }
